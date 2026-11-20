@@ -1,0 +1,65 @@
+
+# Painel de publicações da Otimize
+# A autenticação será configurada antes da ativação.
+
+backend:
+  name: git-gateway
+  branch: principal
+
+locale: pt
+
+media_folder: "site/imagens/blog"
+public_folder: "/imagens/blog"
+
+collections:
+  - name: "blog"
+    label: "Artigos do Blog"
+    label_singular: "Artigo"
+    folder: "content/blog"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    extension: "md"
+    format: "frontmatter"
+    fields:
+      - label: "Título do artigo"
+        name: "title"
+        widget: "string"
+
+      - label: "Data da publicação"
+        name: "date"
+        widget: "datetime"
+
+      - label: "Categoria"
+        name: "category"
+        widget: "select"
+        options:
+          - "Vacinas"
+          - "Pneumologia"
+          - "Saúde Respiratória"
+          - "Sono"
+          - "Nutrição"
+          - "Psicologia"
+          - "Prevenção"
+
+      - label: "Resumo"
+        name: "description"
+        widget: "text"
+
+      - label: "Imagem de destaque"
+        name: "image"
+        widget: "image"
+        required: false
+
+      - label: "Conteúdo do artigo"
+        name: "body"
+        widget: "markdown"
+
+      - label: "Palavras-chave para SEO"
+        name: "keywords"
+        widget: "string"
+        required: false
+
+      - label: "Publicado"
+        name: "published"
+        widget: "boolean"
+        default: false
