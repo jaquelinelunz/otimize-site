@@ -1,0 +1,15 @@
+OTIMIZE — PAINEL EDITORIAL (ESTRUTURA INICIAL)
+
+Esta versão preserva o HTML original v21 e acrescenta uma estrutura de artigos.
+O painel /admin/ é apenas a interface do CMS e AINDA NÃO POSSUI LOGIN FUNCIONAL.
+Para ativar: criar/usar conta GitHub, criar repositório privado, carregar estes arquivos,
+configurar provedor OAuth para Decap CMS, substituir SUA-CONTA/SEU-REPOSITORIO
+em admin/config.yml, e conectar o repositório ao projeto Netlify existente.
+Não usar Netlify Drop para este fluxo editorial: é preciso deploy contínuo pelo Git.
+
+O script build.py gera a pasta dist/, as páginas de artigos e o sitemap.
+Publicar artigos no CMS cria arquivos .md em content/artigos, depois a Netlify reconstrói.
+A opção publicado=false impede que rascunhos sejam exibidos.
+
+ANTES de trocar a publicação atual, testar o deploy de prévia, links, imagens, logomarca,
+formulários, WhatsApp e páginas. Não alterar DNS.
