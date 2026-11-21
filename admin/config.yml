@@ -3,9 +3,9 @@
 # A autenticação será configurada antes da ativação.
 
 backend:
-  name: git-gateway
+  name: github
+  repo: jaquelinelunz/otimize-site
   branch: principal
-
 locale: pt
 
 media_folder: "site/imagens/blog"
