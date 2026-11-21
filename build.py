@@ -2,7 +2,7 @@ from pathlib import Path
 import html, re, shutil, datetime, xml.etree.ElementTree as ET
 root=Path(__file__).resolve().parent
 out=root/'dist';out.mkdir(exist_ok=True)
-base=(root/'site'/'index.html').read_text(encoding='utf-8')
+base=(root/'index.html').read_text(encoding='utf-8')
 posts=[]
 for p in sorted((root/'content'/'artigos').glob('*.md'),reverse=True):
     raw=p.read_text(encoding='utf-8')
