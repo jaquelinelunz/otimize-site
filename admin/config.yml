@@ -5,7 +5,10 @@
 backend:
   name: github
   repo: jaquelinelunz/otimize-site
-  branch: principal
+  branch: main
+
+publish: true
+publish_mode: editorial_workflow
 locale: pt
 
 media_folder: "site/imagens/blog"
