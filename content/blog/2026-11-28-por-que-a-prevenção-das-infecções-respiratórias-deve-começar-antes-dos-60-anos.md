@@ -5,6 +5,7 @@ category: Vacinas
 description: O risco de infecções respiratórias graves começa a aumentar a
   partir dos 50 anos. Conheça o papel da vacinação na prevenção de complicações,
   hospitalizações e na promoção de um envelhecimento mais saudável.
+image: /imagens/blog/captura-de-tela-2026-11-28-011435.png
 keywords: Vacinas respiratórias após os 50 anos | Otimize Cachoeiro; vacinas em
   Cachoeiro de Itapemirim, vacina contra pneumonia, vacina pneumocócica, vacina
   VSR, vacina contra gripe, vacinação adulto, vacinação idosos, Otimize
