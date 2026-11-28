@@ -11,7 +11,7 @@ image: /imagens/blog/trombólise-guiada-na-embolia-pulmonar.png
 keywords: Embolia pulmonar, tromboembolismo pulmonar, TEP, trombólise por
   cateter, tratamento da embolia pulmonar, sintomas de embolia pulmonar, estudo
   PRAGUE-26, NEJM 2026, pneumologista em Cachoeiro de Itapemirim, Otimize Saúde.
-published: false
+published: true
 ---
 A embolia pulmonar é uma doença potencialmente fatal, caracterizada pela obstrução das artérias pulmonares por coágulos sanguíneos, geralmente provenientes das veias dos membros inferiores.
 
