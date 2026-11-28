@@ -12,7 +12,7 @@ keywords: Exame do sono em Cachoeiro de Itapemirim, Biologix Cachoeiro, apneia
   do sono, exame do sono domiciliar, investigação do ronco, polissonografia
   domiciliar, oximetria de alta resolução, diagnóstico de apneia do sono,
   pneumologista em Cachoeiro de Itapemirim, Otimize.
-published: false
+published: true
 ---
 Dormir muitas horas não significa, necessariamente, dormir bem. Roncar, acordar cansado ou sentir sono excessivo durante o dia podem ser manifestações de uma doença ainda pouco diagnosticada: a síndrome da apneia obstrutiva do sono (SAOS).
 
