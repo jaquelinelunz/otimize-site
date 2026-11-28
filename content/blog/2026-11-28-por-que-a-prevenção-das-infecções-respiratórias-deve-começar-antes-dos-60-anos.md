@@ -10,7 +10,7 @@ keywords: Vacinas respiratórias após os 50 anos | Otimize Cachoeiro; vacinas e
   VSR, vacina contra gripe, vacinação adulto, vacinação idosos, Otimize
 published: false
 ---
-Quando pensamos em vacinação, é comum associarmos a prevenção à infância ou à terceira idade. Entretanto, algumas mudanças importantes no risco de adoecimento começam muito antes do qe imaginamUma revisão científica do UpToDate, com literatura atualizada até outubro de 2026, traz informações importantes sobre a prevenção de infecções respiratórias durante o envelhecimento.
+Quando pensamos em vacinação, é comum associarmos a prevenção à infância ou à terceira idade. Entretanto, algumas mudanças importantes no risco de adoecimento começam muito antes do que imaginamos. Uma revisão científica do UpToDate, com literatura atualizada até outubro de 2026, traz informações importantes sobre a prevenção de infecções respiratórias durante o envelhecimento.
 
 **O risco começa a aumentar aos 50 anos**
 
@@ -46,14 +46,8 @@ A indicação de cada vacina deve considerar a idade, as doenças preexistentes,
 
 Prevenir infecções respiratórias graves também significa reduzir o risco de hospitalizações e preservar a autonomia e a qualidade de vida durante o envelhecimento.
 
-
-
 Na Otimize – Medicina e Cuidados de Saúde, em Cachoeiro de Itapemirim, oferecemos orientação individualizada para atualização do calendário vacinal.
 
-
-
 Não espere envelhecer para começar a se proteger.
-
-
 
 *Referência científica: Heflin MT. Geriatric health maintenance. UpToDate. Revisão da literatura atualizada até outubro de 2026.*
