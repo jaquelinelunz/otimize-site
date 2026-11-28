@@ -14,8 +14,6 @@ published: false
 ---
 Já imaginou uma vacina capaz de reduzir a sensação de prazer provocada pelo cigarro?
 
-
-
 O laboratório brasileiro Cristália está desenvolvendo uma estratégia experimental de imunização contra a nicotina, conforme divulgado pelo Conselho Federal de Farmácia em agosto de 2026.
 
 **Como funcionaria essa vacina?**
@@ -34,10 +32,12 @@ Não é preciso esperar por uma vacina para parar de fumar.
 
 Atualmente, existem tratamentos com eficácia comprovada, que incluem acompanhamento médico, suporte comportamental e medicamentos.
 
-
-
 Na Otimize – Medicina e Cuidados de Saúde, em Cachoeiro de Itapemirim, acreditamos na ciência e no cuidado individualizado como ferramentas fundamentais no combate ao tabagismo.
 
-
-
 Parar de fumar é possível. E você não precisa enfrentar essa luta sozinho.
+
+*Referência científica:*
+
+*Hartmann-Boyce J, Cahill K, Hatsukami D, Cornuz J. Nicotine vaccines for smoking cessation. Cochrane Database of Systematic Reviews. 2012;(8):CD007072. doi: 10.1002/14651858.CD007072.pub2.* 
+
+*Conselho Federal de Farmácia (CFF). Brasil aposta em vacina inédita contra a dependência da nicotina. Publicado em 31 de agosto de 2026.*
